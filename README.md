@@ -1,6 +1,9 @@
-# abdoo
+# Accident Detector
 
-A new Flutter project.
+A new Flutter project.   
+in this project ,i use accumulator sensor to get phone moving ,if i read change modfie of accumulator .   
+then this is accident and take time and show fayoum map .   
+in map , i put marker define where accident happend .   
 
 ## Getting Started
 
